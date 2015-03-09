@@ -1,8 +1,9 @@
-kspaceduel (4:14.12.2-0ubuntu2) UNRELEASED; urgency=medium
+kspaceduel (4:14.12.3-0ubuntu1) UNRELEASED; urgency=medium
 
   * Add back kdelibs parent version depend 
+  * New upstream release
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 20 Feb 2015 12:55:19 -0800
+ -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 09 Mar 2015 11:11:48 -0700
 
 kspaceduel (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
