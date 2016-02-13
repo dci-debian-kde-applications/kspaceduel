@@ -1,8 +1,9 @@
-kspaceduel (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
+kspaceduel (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
 
+  * Merged with Debian
   * New upstream release
 
- -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 14:16:57 +0000
+ -- Clive Johnston <clivejo@aol.com>  Sat, 13 Feb 2016 22:05:19 +0000
 
 kspaceduel (4:15.08.2-0ubuntu1) wily; urgency=medium
 
@@ -48,19 +49,25 @@ kspaceduel (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 13 Mar 2015 14:22:11 -0700
 
+kspaceduel (4:14.12.2-1) experimental; urgency=medium
+
+  * New upstream release (14.12.2).
+
+  [ Scarlett Clark ]
+  * Add back kdelibs parent version depend
+
+  [ Maximiliano Curia ]
+  * Bump Standards-Version to 3.9.6, no changes needed.
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 22 Feb 2015 17:56:27 +0100
+
 kspaceduel (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
-  * Remove unstable from watch file, uscan fails with 
+  * Remove unstable from watch file, uscan fails with
     remote site does not even have current version
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 10 Feb 2015 09:17:10 -0800
-
-kspaceduel (4:14.12.2-0ubuntu1) UNRELEASED; urgency=medium
-
-  * New upstream release
-
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 06 Feb 2015 10:45:25 -0800
 
 kspaceduel (4:14.12.0-0ubuntu1) vivid; urgency=medium
 
@@ -338,4 +345,3 @@ kspaceduel (4:4.9.90-0ubuntu1) raring-proposed; urgency=low
   * Initial release
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 07 Dec 2012 18:07:52 +0000
-
