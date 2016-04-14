@@ -1,3 +1,17 @@
+kspaceduel (4:14.12.2-2~1.gbpfde972) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @fde9720890d8fcc32873d915ea3aae40c31ad17b **
+
+  [ Maximiliano Curia ]
+  * Remove menu file and friends
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+
+  [ Automatic packaging ]
+  * Bump Standards-Version to 3.9.8
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Thu, 14 Apr 2016 13:22:19 +0200
+
 kspaceduel (4:14.12.2-1) experimental; urgency=medium
 
   * New upstream release (14.12.2).
