@@ -33,6 +33,8 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/kspaceduel.git
 Package: kspaceduel
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Recommends: khelpcenter
 Description: SpaceWar! arcade game
  KSpaceduel is a space battle game for one or two players, where two ships fly
