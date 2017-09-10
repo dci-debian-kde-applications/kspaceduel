@@ -9,10 +9,8 @@ Uploaders: Daniel Schepler <schepler@debian.org>,
            George Kiagiadakis <gkiagiad@csd.uoc.gr>,
            Eshat Cakar <info@eshat.de>,
            Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>,
-           Maximiliano Curia <maxy@debian.org>
-Build-Depends: cmake,
-               debhelper (>= 9),
-               pkg-kde-tools (>= 0.14)
+           Maximiliano Curia <maxy@debian.org>,
+Build-Depends: cmake, debhelper (>= 9), pkg-kde-tools (>= 0.14)
 Standards-Version: 4.1.0
 Homepage: http://games.kde.org/
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/kspaceduel.git
