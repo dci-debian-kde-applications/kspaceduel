@@ -1,8 +1,15 @@
-kspaceduel (4:17.08.1-1~) UNRELEASED; urgency=medium
+kspaceduel (4:17.08.1-1~1) UNRELEASED; urgency=medium
 
   * New upstream release (17.08.1).
+  * Update watch file
+  * Bump Standards-Version to 4.1.0.
+  * Update upstream metadata
+  * Update build-deps and deps with the info from cmake
+  * Update copyright file
+  * Add breaks/replaces against the kde-l10n packages
+  * Update uploaders list as requested by MIA team (Closes: #879375)
 
- -- Maximiliano Curia <maxy@debian.org>  Sun, 10 Sep 2017 12:13:36 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 31 Oct 2017 18:02:58 +0100
 
 kspaceduel (4:16.08.0-1) unstable; urgency=medium
 
